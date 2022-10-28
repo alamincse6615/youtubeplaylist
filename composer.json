@@ -1,0 +1,18 @@
+{
+    "name": "Sam/tth-streams",
+    "authors": [
+        {
+            "name": "Sam Carlton",
+            "email": "thatguy@samuelcarlton.com"
+        }
+    ],
+    "require": {
+  		"php": ">=5.4.0",
+  		"phpfastcache/phpfastcache": "6.0.4",
+      "madcoda/php-youtube-api": "^1.2.4",
+      "vlucas/phpdotenv": "^2.4",
+      "kitetail/zttp": "^0.2",
+      "php-amqplib/php-amqplib": "2.6.*"
+    }
+
+}
